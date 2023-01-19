@@ -1,0 +1,66 @@
+id: IFA40B425
+ocr_import_info:
+  timestamp: '2023-01-19T12:18:17.902780+00:00'
+  ocr_engine: GoogleVisionEngine
+  ocr_model_type: builtin/weekly
+  ocr_lang_hint: ''
+  software_id: ocr-pipelines@v0.1.7
+  sponsor: BDRC
+  sponsor_consent: true
+  op_import_options: {}
+  op_import_version: 0.9.18
+default_language: bo
+source: https://library.bdrc.io
+initial_creation_type: ocr
+imported: 2023-01-19 14:53:58.681573+00:00
+last_modified: 2023-01-19 14:53:58.681578+00:00
+source_metadata:
+  id: http://purl.bdrc.io/resource/W14322
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  geo_restriction:
+  - CN
+  reproduction_of: http://purl.bdrc.io/resource/MW14322
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: ཐོབ་ཡིག་༔་བློ་བཟང་འཕྲིན་ལས།
+  languages:
+  - bo
+  author: ཛ་ཡ་པཎྜི་ཏ་བློ་བཟང་འཕྲིན་ལས།
+bases:
+  I5601:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I5601
+      total_pages: 598
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I5601.txt
+  I5603:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I5603
+      total_pages: 640
+      volume_number: 3
+      volume_pages_bdrc_intro: 2
+    order: 3
+    base_file: I5603.txt
+  I5602:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I5602
+      total_pages: 636
+      volume_number: 2
+      volume_pages_bdrc_intro: 2
+    order: 2
+    base_file: I5602.txt
+  I5604:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I5604
+      total_pages: 608
+      volume_number: 4
+      volume_pages_bdrc_intro: 2
+    order: 4
+    base_file: I5604.txt
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
